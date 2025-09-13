@@ -25,7 +25,7 @@ This project helped me practice:
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/tenzies-react.git
+git clone https://github.com/batoulibrahem/TenziesGame_React.git
 cd tenzies-react
 npm install
 npm start
