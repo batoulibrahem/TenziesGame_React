@@ -1,12 +1,34 @@
-# React + Vite
+# 🎲 Tenzies Game — React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive dice game built with **React**, created while learning through [Scrimba's React course](https://scrimba.com/learn-react-c0e/~04ao). The goal is to roll until all dice show the same number. Players can hold dice to keep their values between rolls.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Roll dice until all match
+- Lock dice to preserve values
+- Track number of rolls
+- Simple and clean UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 What I Learned
+This project helped me practice:
+- React components and props
+- State management with `useState`
+- Conditional rendering
+- Basic game logic in React
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- React
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshot
+*You can add a screenshot here to show the game UI.*
+
+## 📦 Installation
+```bash
+git clone https://github.com/your-username/tenzies-react.git
+cd tenzies-react
+npm install
+npm start
+🧠 Credits
+Built while following the Scrimba React course — highly recommended for beginners!
+Enjoy rolling! 🎲
